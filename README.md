@@ -4,6 +4,7 @@ A proposta do trabalho é criar um codigo que organize todos os elementos do CSS
 
 
 Para rodar o codigo execute os comandos:
+
 1 -- npm i node
 2 -- node index.js
 
